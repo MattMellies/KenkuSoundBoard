@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Small personal project to assisst in a D&D campaign where I play a Kenku, who cannot speak without mimicking sounds he's already heard.
+Small personal project to assist in a D&D campaign where I play a Kenku, who cannot speak without mimicking sounds he's already heard.
 
 ## Available Scripts
 
